@@ -293,7 +293,7 @@ def info_link(term, args=None):
 
 def nutrition_link(ingredient_id):
     """Return a nutrition table link for a known ingredient id."""
-    if not ingredient_id:
+    if not ingredient_id or not str(ingredient_id).strip():
         return ''
     return (
         f' <a id="id-{ingredient_id}" '
