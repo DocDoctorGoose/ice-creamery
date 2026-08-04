@@ -134,7 +134,7 @@ AUTO_LINK_STOP_WORDS = {
     'Bean Powder', 'Beet Root', 'berry powder', 'Root powder', 'cream-filled',
     'Cherries, Sour', 'Condensed milk', 'Corn starch', 'Cream 32%', 'Cream Punch',
     'desiccated', 'Dragon Fruit', 'Evaporated milk', 'Extract',
-    'Flavor drops', 'Flavor Powder', 'Ice Cream', 'Irish Cream',
+    'Flavor drops', 'Flavor Powder', 'Frozen Fruit', 'Ice Cream', 'Irish Cream',
     'Low fat milk', 'Milk 3.5%', 'Milk Choc', 'Mint chocolate', 'Moser-Roth',
     'Peanut butter', 'Philadelphia Milka', 'Printen',
     'Seed Powder', 'Soy sauce', 'tea powder', 'to MAX line',
