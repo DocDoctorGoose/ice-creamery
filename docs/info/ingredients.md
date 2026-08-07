@@ -33,8 +33,8 @@ of common ingredients, sorted by PAC.
 
 | FPDF/PAC | POD |  GI | Ingredient | Comment |
 | -: | -: | -: | :----------------- | :------ |
+| 1070 |  -/- | -/- | Salt  | Sodium chloride (NaCl); undissolved PAC is 585 |
 | 740 |  -/- | -/- | [Ethanol](#alcohol-ethanol) | Do not use pure ethanol in ice cream |
-| 590 |  -/- | -/- | Salt  | Sodium chloride (NaCl) |
 | 370 |  60 |  5 | [Vegetable Glycerin](#vegetable-glycerin-glycerol-vg-e422) | |
 | 296 |  -/- | -/- | [Hard liquor](#alcohol-ethanol) | 40 vol% (80 proof) |
 | 280 | ≈75 |  0 | [Erythritol](#erythritol-e968) | POD ranges from 70 to 80 |
